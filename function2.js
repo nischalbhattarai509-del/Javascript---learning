@@ -4,7 +4,6 @@ function greet(name){
 greet("Nischal");
 greet("Ram");
 
-----------------------------------
 function name(x) {
     console.log(x);
 }
